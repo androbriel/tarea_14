@@ -1,3 +1,7 @@
+
+#Agregando información para un primer cambio!!
+
+
 import pyodbc
 import pandas as pd
 import tkinter as tk
